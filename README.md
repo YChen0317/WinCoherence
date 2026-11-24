@@ -6,3 +6,4 @@
 - [架构](ARCHITECTURE.md)
 - [路线图](ROADMAP.md)
 - [进度](PROGRESS.md)
+- [另一台设备的 Phase 1 宿主交接](docs/phase1-host-handoff.md)
